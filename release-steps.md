@@ -1,4 +1,7 @@
-# Release steps for OE-lite projects
+---
+title: Release steps for OE-lite projects
+layout: post
+---
 
 1. Make and push release commit
 2. Make release tag on github, providing a description of the release similar to
