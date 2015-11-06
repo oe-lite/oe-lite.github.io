@@ -1,6 +1,6 @@
 ---
 title: Release steps for OE-lite projects
-layout: post
+layout: default
 ---
 
 1. Make and push release commit
