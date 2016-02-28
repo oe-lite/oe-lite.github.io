@@ -17,7 +17,7 @@ Main sponsors are sponsoring >2500DKK/year.
 
 ### Prevas A/S
 
-![Prevas A/S](/images/sponsors/prevas.png)
+[![Prevas A/S](/images/sponsors/prevas.png)](www.prevas.com)
 
 ## Others
 
