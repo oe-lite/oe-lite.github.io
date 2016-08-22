@@ -30,15 +30,15 @@ The purpose of the association is to support the open source project OE-lite.org
 3. A general meeting must be announced at least three weeks before it will be held to all members of the association by email.
 4. All members of the association have a vote at the general meeting. It is not possible to vote by proxy.
 5. The agenda for a general meeting should at least contain the following points:
-  1. Election of chairman
-  2. Report from the president about what has happened in the association since last general meeting.
-  3. Deciding on new members of the association
-  4. The treasurer presents the accounting from the year gone since last general meeting
-  5. Decision on proposals by members and/or the board
-  6. Election of president
-  7. Election of a treasurer, a board member and two alternates. One board member must take the role as the treasurer for the next year.
-  8. Election of accountant
-  9. Any other business
+  * Election of chairman
+  * Report from the president about what has happened in the association since last general meeting.
+  * Deciding on new members of the association
+  * The treasurer presents the accounting from the year gone since last general meeting
+  * Decision on proposals by members and/or the board
+  * Election of president
+  * Election of a treasurer, a board member and two alternates. One board member must take the role as the treasurer for the next year.
+  * Election of accountant
+  * Any other business
 6. Proposals to be decided upon at a general meeting must be given to the board in writing (email) at least 8 days before the general meeting. If a proposal is about changing the articles of association they have to be given to the board at least 3 months before the general meeting.
 7. At the general meeting a chairman is elected. The task of the chairman is to make sure valid decisions are being made, in accordance to the current articles of association and general legislation about associations in Denmark.
 8. All decisions, except decisions about changes to the articles of the association, at the general meeting are made with a simple majority in voting. This means more than 50% of the votes of the participating members.
@@ -46,7 +46,7 @@ The purpose of the association is to support the open source project OE-lite.org
 10. Voting can be done online via the channel used for the general meeting. If anonymous voting is needed the president will receive votes on a channel suitable for this (PGP email etc.)
 11. An extraordinary general meeting may be called for by the board. If at least 30% of the members request this by email to the board, it must be called for.
 
-##§ 5. Daily management of the association
+## § 5. Daily management of the association
 
 1. The daily management of the association is taken care of by the board. The board consist of a president, a treasurer and 1 additional board member. The board is elected at the general meetings.
 2. The board must manage the association in accordance to the current articles of association and decisions made by the general meetings.
