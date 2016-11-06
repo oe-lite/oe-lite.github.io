@@ -25,3 +25,5 @@ Main sponsors are sponsoring >2500DKK/year.
 
 ## Others
 
+### Mads Doré ApS
+[![Mads Doré ApS](/images/sponsors/madsdoreaps.png)](http://www.madsdore.dk)
